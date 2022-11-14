@@ -76,4 +76,4 @@ pm.sendRequest(postRequest, function (err, response) {
 ### Conclusion
 This article demonstrates just a small of what Pre-request Scripts are capable of. This way you can expand your knowledge about this concepts by read the articles and documentations listed below. And go beyond!
 
-Thanks for spending your time here, please share, comment, like and subcribe [my newsletter](https://joismar.hashnode.dev/newsletter) for more. See you later 👋🏼.
+Thanks for spending your time here, please share, comment, like and subscribe [my newsletter](https://joismar.hashnode.dev/newsletter) for more. See you later 👋🏼.
