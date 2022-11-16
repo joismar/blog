@@ -1,11 +1,13 @@
 ---
-title: Postman Pre-request Scripts
-description: Automagically testing APIs with random data
+title: "Postman Pre-request Scripts: {{#if devto}}Automagically testing APIs with random data{{/if}}"
+description: How I automated part of my API tests using Postman and pre-request scripts to generate random stuff from specific APIs.
 domain: https://joismar.hashnode.dev/
 tags: javascript, backend, tips
 subtitle: Automagically testing APIs with random data
 slug: automagically-postman-random-data
+published: false
 ignorePost: true
+license: cc-40-by
 ---
 
 Today I will show how I automated part of my API tests using Postman and pre-request scripts to generate random stuff from specific APIs.
